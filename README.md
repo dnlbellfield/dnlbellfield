@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there 👋, My name is Daniel</h1>
 <h3 align="center">I am a Software Engineer based in Los Angeles, CA.</h3>
 
-- 🔭 I’m currently working on [hosting and deploying a test site with django and heroku](www.danielbellfield.com)
+- 🔭 I’m currently working on [hosting and deploying a test site with django and heroku](http://www.danielbellfield.com)
 
-- 👨‍💻 All of my projects are available at [www.danielbellfield.com](www.danielbellfield.com)
+- 👨‍💻 All of my projects are available at [www.danielbellfield.com](http://www.danielbellfield.com)
 
 - 📝 I regularly write articles on [https://danielbellfield.hashnode.dev/](https://danielbellfield.hashnode.dev/)
 
