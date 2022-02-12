@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [www.danielbellfield.com](http://www.danielbellfield.com)
 
-- 📝 I regularly write articles on [https://danielbellfield.hashnode.dev/](https://danielbellfield.hashnode.dev/)
+- 📝 I write articles on [https://danielbellfield.hashnode.dev/](https://danielbellfield.hashnode.dev/)
 
 - 💬 Follow me on twitter **https://twitter.com/DanielBellfiel1**
 
