@@ -17,15 +17,19 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there 👋, My name is Daniel</h1>
 <h3 align="center">I am a Software Engineer based in Oxnard, CA.</h3>
 
-- 🔭 I’m currently working on [hosting and deploying a test site with django and heroku](http://www.danielbellfield.com)
 
-- 👨‍💻 All of my projects are available at [www.danielbellfield.com](http://www.danielbellfield.com)
+
+- 👨‍💻 All of my projects are available at [https://danielbellfield.netlify.app
+](https://danielbellfield.netlify.app
+)
 
 - 📝 I write articles on [https://danielbellfield.hashnode.dev/](https://danielbellfield.hashnode.dev/)
 
 - 💬 Follow me on twitter **https://twitter.com/DanielBellfiel1**
 
 - 📫 How to reach me **dnlbellfield@gmail.com**
+
+<!-- - 🔭 I’m currently working on [hosting and deploying a test site with django and heroku](http://www.danielbellfield.com) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
