@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 
 - 💬 Follow me on twitter **https://twitter.com/DanielBellfiel1**
 
+- 💬 I'm on Linkenin **https://www.linkedin.com/in/daniel-bellfield-586a36179/**
+
 - 📫 How to reach me **dnlbellfield@gmail.com**
 
 <!-- - 🔭 I’m currently working on [hosting and deploying a test site with django and heroku](http://www.danielbellfield.com) -->
