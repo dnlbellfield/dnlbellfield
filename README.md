@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 📝 I write articles on [https://danielbellfield.hashnode.dev/](https://danielbellfield.hashnode.dev/)
 
-- 💬 Follow me on twitter **https://twitter.com/DanielBellfiel1**
+- 💬 Follow me on Twitter **https://twitter.com/DanielBellfiel1**
 
 - 💬 I'm on Linkedin **https://www.linkedin.com/in/daniel-bellfield-586a36179/**
 
