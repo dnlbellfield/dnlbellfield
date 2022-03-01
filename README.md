@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 💬 Follow me on Twitter **https://twitter.com/DanielBellfiel1**
 
-- 💬 I'm on Linkedin **https://www.linkedin.com/in/daniel-bellfield-586a36179/**
+- 💬 I'm on Linkedin **https://www.linkedin.com/in/danielbellfield-dev/**
 
 - 📫 How to reach me **dnlbellfield@gmail.com**
 
