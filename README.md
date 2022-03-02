@@ -19,15 +19,16 @@ Here are some ideas to get you started:
 
 
 
-- 👨‍💻 All of my projects are available at [https://danielbellfield.netlify.app
+- 👨‍💻 My recent projects are available at [https://danielbellfield.netlify.app
 ](https://danielbellfield.netlify.app
 )
-
-- 📝 I write articles on [https://danielbellfield.hashnode.dev/](https://danielbellfield.hashnode.dev/)
 
 - 💬 Follow me on Twitter **https://twitter.com/DanielBellfiel1**
 
 - 💬 I'm on Linkedin **https://www.linkedin.com/in/danielbellfield-dev/**
+
+
+- 📝 I write articles on [https://danielbellfield.hashnode.dev/](https://danielbellfield.hashnode.dev/)
 
 - 📫 How to reach me **dnlbellfield@gmail.com**
 
