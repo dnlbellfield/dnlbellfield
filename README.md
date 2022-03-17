@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 - 💬 I'm on Linkedin **https://www.linkedin.com/in/danielbellfield-dev/**
 
 
-- 📝 I write articles on [https://danielbellfield.hashnode.dev/](https://danielbellfield.hashnode.dev/)
-
+<!-- - 📝 I write articles on [https://danielbellfield.hashnode.dev/](https://danielbellfield.hashnode.dev/)
+ -->
 - 📫 How to reach me **dnlbellfield@gmail.com**
 
 <!-- - 🔭 I’m currently working on [hosting and deploying a test site with django and heroku](http://www.danielbellfield.com) -->
