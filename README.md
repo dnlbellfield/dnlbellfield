@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi there 👋, My name is Daniel</h1>
+<h1 align="center">Hi there 👋, My name is Daniel.</h1>
 <h3 align="center">I'm a Web Developer based in Oxnard, CA.</h3>
 
 
