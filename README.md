@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-- 👨‍💻 View my portfolio **[https://daniel-bellfield.com]**
+- 👨‍💻 View my portfolio **https://daniel-bellfield.com**
 
 - 💬 Follow me on Twitter **https://twitter.com/DanielBellfiel1**
 
