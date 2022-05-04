@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-- 👨‍💻 My recent projects are available at [https://danielbellfield.netlify.app
+- 👨‍💻 My recent projects are available at [https://daniel-bellfield.com
 ](https://danielbellfield.netlify.app
 )
 
