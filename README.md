@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 View my portfolio **https://daniel-bellfield.com**
 
-- 💬 Follow me on Twitter **https://twitter.com/DanielBellfiel1**
+- 💬 Follow me on Twitter **https://twitter.com/DanielBellfield**
 
 - 💬 I'm on Linkedin **https://www.linkedin.com/in/danielbellfield-dev/**
 
