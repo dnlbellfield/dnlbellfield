@@ -15,15 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi there 👋, My name is Daniel.</h1>
-<h3 align="center">I'm a Web Developer based in California.</h3>
-
-
- 
-
-
-<!-- - 📝 I write articles on [https://danielbellfield.hashnode.dev/](https://danielbellfield.hashnode.dev/)
- -->
--  
+<h3 align="center">I'm a Web Developer based in California.</h3> 
 
 <!-- - 🔭 I’m currently working on [hosting and deploying a test site with django and heroku](http://www.danielbellfield.com) -->
 
