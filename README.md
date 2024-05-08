@@ -18,17 +18,12 @@ Here are some ideas to get you started:
 <h3 align="center">I'm a Web Developer based in California.</h3>
 
 
-
-- 👨‍💻 View my portfolio **https://daniel-bellfield.com**
-
-- 💬 Follow me on Twitter **https://twitter.com/DanielBellfield**
-
-- 💬 I'm on Linkedin **https://www.linkedin.com/in/danielbellfield-dev/**
+ 
 
 
 <!-- - 📝 I write articles on [https://danielbellfield.hashnode.dev/](https://danielbellfield.hashnode.dev/)
  -->
-- 📫 How to reach me **dnlbellfield@gmail.com**
+-  
 
 <!-- - 🔭 I’m currently working on [hosting and deploying a test site with django and heroku](http://www.danielbellfield.com) -->
 
