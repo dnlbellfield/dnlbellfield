@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi there 👋, My name is Daniel.</h1><br><br>
-<h3 align="center">I'm a developer based in California.</h3> 
+<h3 align="center">Welcome to my Github.</h3> 
 <p>Projects: <br><br>
 • Personal site — https://daniel-bellfield.com<br><br>
 • Email audit tool — https://emailclarity.netlify.app/<br><br>
