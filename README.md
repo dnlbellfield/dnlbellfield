@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi there 👋, My name is Daniel.</h1>
 <h3 align="center">I'm a developer based in California.</h3> 
-<p>Projects:
-• Personal site — https://daniel-bellfield.com
-• Email audit tool — https://emailclarity.netlify.app/
+<p>Projects: <br>
+• Personal site — https://daniel-bellfield.com<br><br>
+• Email audit tool — https://emailclarity.netlify.app/<br><br>
 • Portfolio website builder — https://portfolio-up.com/</p>
 <!-- - 🔭 I’m currently working on [hosting and deploying a test site with django and heroku](http://www.danielbellfield.com) -->
 
