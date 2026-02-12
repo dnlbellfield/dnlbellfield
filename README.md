@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi there 👋, My name is Daniel.</h1>
+<h1 align="center">Hi there 👋, My name is Daniel.</h1><br><br>
 <h3 align="center">I'm a developer based in California.</h3> 
-<p>Projects: <br>
+<p>Projects: <br><br>
 • Personal site — https://daniel-bellfield.com<br><br>
 • Email audit tool — https://emailclarity.netlify.app/<br><br>
 • Portfolio website builder — https://portfolio-up.com/</p>
