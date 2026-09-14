@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h3 align="center">Welcome to my Github.</h3> 
 <p>Projects: <br><br>
 • Personal site — https://daniel-bellfield.com<br><br>
-• Email audit tool — https://emailclarity.netlify.app/<br><br>
+• Email audit tool — https://getemailclarity.com/<br><br>
 • Portfolio website builder — https://portfolio-up.com/</p>
 <!-- - 🔭 I’m currently working on [hosting and deploying a test site with django and heroku](http://www.danielbellfield.com) -->
 
